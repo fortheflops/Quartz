@@ -26,7 +26,7 @@ ___
 7. baste
 8. Stir in brandy and serve
 ___
-![PearsinHoneySauce](/The%20Loraine%20Collection/Assets/PearsinHoneySauce.jpg)
+![PearsinHoneySauce](/The%20Loraine%20Collection/Desserts/Assets/PearsinHoneySauce.jpg)
 ___
 ## Collection
 [[The Loraine Collection]]

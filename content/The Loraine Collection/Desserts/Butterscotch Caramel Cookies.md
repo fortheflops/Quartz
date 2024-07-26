@@ -27,8 +27,7 @@ ___
 >65 cookies
 
 ___
-
-![ButterscotchCaramelCookies](/The%20Loraine%20Collection/Assets/ButterscotchCaramelCookies.jpg)
+![ButterscotchCaramelCookies](/The%20Loraine%20Collection/Desserts/Assets/ButterscotchCaramelCookies.jpg)
 ___
 ## Collection
 [[The Loraine Collection]]
