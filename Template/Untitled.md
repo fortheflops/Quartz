@@ -15,7 +15,7 @@ ___
 | 1 cup        | [[Chunky Peanut Butter]]           |
 | 3 cup        | Sugar Frosted Flakes               |
 ___
-### instructions
+### Instructions
 1. Melt Chips and Peanut Butter in top of double boiler
 2. Take off from stove,
 3. Stir in Flakes Gently
