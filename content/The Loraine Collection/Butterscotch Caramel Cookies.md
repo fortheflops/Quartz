@@ -28,7 +28,7 @@ ___
 
 ___
 
-![ButterscotchCaramelCookies](content/The%20Loraine%20Collection/Assets/ButterscotchCaramelCookies.jpg)
+![ButterscotchCaramelCookies](/The%20Loraine%20Collection/Assets/ButterscotchCaramelCookies.jpg)
 ___
 ## Collection
 [[The Loraine Collection]]
