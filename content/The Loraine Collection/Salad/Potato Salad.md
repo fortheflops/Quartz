@@ -19,8 +19,8 @@ ___
 | 3                 | [[Celery]] Stalks    |
 | $\frac{1}{2}$ tsp | Mustard              |
 | 5                 | Hard Boiled [[Eggs]] |
-|                   | Salt                 |
-|                   | Pepper               |
+|                   | [[Salt]]             |
+|                   | [[Pepper]]           |
 ___
 ### Instructions
 1. Mix Potatoes 
