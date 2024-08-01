@@ -23,14 +23,16 @@ ___
 |                   | [[Pepper]]           |
 ___
 ### Instructions
-1. Mix Potatoes 
+1. Mix and set aside Onion, Relish, vinegar and Salt/Pepper
+2. Boil and cool Eggs and Potatoes
+3. Cut and place potato's in bowl
+4. Add mixture from step one
+5. Add additional mayonnaise
+6. Slice eggs—set half of them aside and mix the other half into the mixture from above
+7. Place the rest of the egg slices on top and sprinkle with paprika 
 ___
->[!Servings]
->65 cookies
-
-___
-
-
+![2024-07-22164947](/The%20Loraine%20Collection/Salad/Assets/2024-07-22_164937.jpg)
+![2024-07-22_165448](/The%20Loraine%20Collection/Salad/Assets/Handwritten_2024-07-22_165448.jpg)
 ___
 ## Collection
 [[The Loraine Collection]]
