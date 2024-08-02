@@ -29,4 +29,4 @@ ___
 
 ___
 ## Collection
-[[The Loraine Collection]]
+[[content/The Loraine Collection/The Loraine Collection]]

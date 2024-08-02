@@ -31,4 +31,4 @@ ___
 ![2024-07-26 151803](/The%20Loraine%20Collection/Desserts/Assets/2024-07-26_151803.jpg)
 ___
 ## Collection
-[[The Loraine Collection]]
+[[content/The Loraine Collection/The Loraine Collection]]

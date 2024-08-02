@@ -35,4 +35,4 @@ ___
 ![2024-07-22_165448](/The%20Loraine%20Collection/Salad/Assets/Handwritten_2024-07-22_165448.jpg)
 ___
 ## Collection
-[[The Loraine Collection]]
+[[content/The Loraine Collection/The Loraine Collection]]
