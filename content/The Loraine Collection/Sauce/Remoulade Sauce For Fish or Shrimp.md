@@ -30,4 +30,4 @@ ___
 ![RemouladeSauceForFishorShrimp](/The%20Loraine%20Collection/Sauce/Assets/RemouladeSauceforfishorshrimp.jpg)
 ___
 ## Collection
-[[content/The Loraine Collection/The Loraine Collection]]
+[[/The Loraine Collection/The Loraine Collection]]

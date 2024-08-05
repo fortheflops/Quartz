@@ -40,4 +40,4 @@ ___
 ![2024-07-2217](/The%20Loraine%20Collection/Side%20Dishes/Assets/Handwritten_2024-07-22_173108%201.jpg)
 ___
 ## Collection
-[[content/The Loraine Collection/The Loraine Collection]]
+[[/The Loraine Collection/The Loraine Collection]]

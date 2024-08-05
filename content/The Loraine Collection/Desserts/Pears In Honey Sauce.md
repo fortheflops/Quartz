@@ -29,4 +29,4 @@ ___
 ![PearsinHoneySauce](/The%20Loraine%20Collection/Desserts/Assets/PearsinHoneySauce.jpg)
 ___
 ## Collection
-[[content/The Loraine Collection/The Loraine Collection]]
+[[/The Loraine Collection/The Loraine Collection]]
