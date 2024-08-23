@@ -36,4 +36,4 @@ ___
 ![2024-07-20_204646](/The%20Loraine%20Collection/Desserts/Assets/Handwritten_2024-07-20_204646.jpg)
 ___
 ## Collection
-[[content/The Loraine Collection/The Loraine Collection]]
+[[/The Loraine Collection/The Loraine Collection]]
