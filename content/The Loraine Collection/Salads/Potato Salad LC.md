@@ -31,8 +31,8 @@ ___
 6. Slice eggs—set half of them aside and mix the other half into the mixture from above
 7. Place the rest of the egg slices on top and sprinkle with paprika 
 ___
-![2024-07-22164947](/The%20Loraine%20Collection/Salad/Assets/2024-07-22_164937.jpg)
-![2024-07-22_165448](/The%20Loraine%20Collection/Salad/Assets/Handwritten_2024-07-22_165448.jpg)
+![2024-07-22_164937](/The%20Loraine%20Collection/Salads/Assets/2024-07-22_164937.jpg)
+![Handwritten_2024-07-22_165448](/The%20Loraine%20Collection/Salads/Assets/Handwritten_2024-07-22_165448.jpg)
 ___
 ## Collection
 [[/The Loraine Collection/The Loraine Collection]]
