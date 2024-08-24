@@ -10,7 +10,7 @@ ___
 
 | Measurements         | Ingredients         |
 | :------------------- | ------------------- |
-| 1 cup                | [[Soft Shortening]] |
+| 1 cup                | [[Shortening]] |
 | 1 $\frac{1}{2}$ cup  | [[Sugar]]           |
 | 2                    | [[Eggs]]            |
 | 2 $\frac{3}{4}$ cups | [[Flour]]           |
