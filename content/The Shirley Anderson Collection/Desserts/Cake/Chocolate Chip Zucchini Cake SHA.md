@@ -37,4 +37,4 @@ ___
 ![2024-08-23_185005](/The%20Shirley%20Anderson%20Collection/Desserts/Cake/Assets/2024-08-23_185005.jpg)
 ___
 ## Collection
-[/The Shirley Anderson Collection/The Shirley Anderson Collection]
+[[/The Shirley Anderson Collection/The Shirley Anderson Collection]]
