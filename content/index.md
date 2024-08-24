@@ -9,4 +9,5 @@ Project Abundantia is a
 Though this is first and foremost a passion project I do have long-term goals. If you want to see what my plans are, be sure to [Goals](Goals.md)
 
 # Current Collections
-[The Loraine Collection](/The%20Loraine%20Collection/The%20Loraine%20Collection.md)
+[/The Loraine Collection/The Loraine Collection](/The%20Loraine%20Collection/The%20Loraine%20Collection)
+[/The Shirley Anderson Collection/The Shirley Anderson Collection](/The%20Shirley%20Anderson%20Collection/The%20Shirley%20Anderson%20Collection)

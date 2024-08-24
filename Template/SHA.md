@@ -1,8 +1,8 @@
 ---
-title: Butterscotch Caramel Cookies
+title: <%tp.file.title%>
 draft: false
 tags:
-  - "#Desserts"
+  - example-tag
 ---
 ## Author
 Unknown
@@ -27,8 +27,8 @@ ___
 >65 cookies
 
 ___
-![ButterscotchCaramelCookies](/The%20Loraine%20Collection/Desserts/Assets/ButterscotchCaramelCookies.jpg)
-![2024-07-26 151803](/The%20Loraine%20Collection/Desserts/Assets/2024-07-26_151803.jpg)
+
+
 ___
 ## Collection
-[[/The Loraine Collection/The Loraine Collection]]
+[/The Shirley Anderson Collection/The Shirley Anderson Collection]

@@ -1,5 +1,5 @@
 ---
-title: Sheath Cake
+title: Sheath Cake SHA
 draft: false
 tags:
   - Desserts
@@ -38,7 +38,7 @@ ___
 2. Bring to a boil shortening and water.
 3. Add hot mixture to sifted ingredients
 4. Mix in eggs, buttermilk, baking soda, salt, cinnamon and vanilla.
-5. Pour into 16 x 11'' greased pan. Bake 20 minutes in 400 degree oven.
+5. Pour into 16 x 11'' greased pan. Bake 20 minutes in 400°$^{\text{F}}$  oven.
 6. When cake is about half done, start making the icing
 7. melt margarine and combine with cocoa and milk.
 8. Bring to a boil
@@ -47,7 +47,7 @@ ___
 11. Spread over cake as soon as it is removed from the oven.
 12. Cool and serve. 
 ___
-![2024-08-23_175309](/The%20Shirley%20Anderson%20Collection/Desserts/Assets/2024-08-23_175309.jpg)
+![2024-08-23_175309](/The%20Shirley%20Anderson%20Collection/Desserts/Ccake/Assets/2024-08-23_175309.jpg)
 ___
 ## Collection
-[[/The Loraine Collection/The Loraine Collection]]
+[/The Shirley Anderson Collection/The Shirley Anderson Collection]
