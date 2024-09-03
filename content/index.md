@@ -8,3 +8,4 @@ Project Abundantia (a.bunˈdan.ti.a) is dedicated to preserving and sharing fami
 # Current Collections
 [/The Loraine Collection/The Loraine Collection](/The%20Loraine%20Collection/The%20Loraine%20Collection)
 [/The Shirley Anderson Collection/The Shirley Anderson Collection](/The%20Shirley%20Anderson%20Collection/The%20Shirley%20Anderson%20Collection)
+[/The Louise Collection/The Louise Collection](/The%20Louise%20Collection/The%20Louise%20Collection)

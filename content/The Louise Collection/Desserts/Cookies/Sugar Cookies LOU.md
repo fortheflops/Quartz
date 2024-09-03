@@ -3,6 +3,7 @@ title: Sugar Cookies LOU
 draft: false
 tags:
   - "#Cookies"
+  - "#Desserts"
 ---
 ## Author
 Unknown
@@ -23,14 +24,15 @@ ___
 | sprinkle         | [[Nutmeg]]                   |
 ___
 ### Instructions
-1. Blend together shortening, salt, lemon rind, and sugar
-2. Beat in egg and milk
-3. Stir in flour, baking powder, and baking soda
-4. Drop by rounded teaspoonfuls on lightly greased baking sheet
-5. Grease bottom of glass. Dip glass in sugar and flatten each cookie
-6. Sprinkle cookies with nutmeg
-7. Bake 8-10 minutes, at 400, until light golden
-8. Cool on rack
+1. Preheat Oven to 400°$^{\text{F}}$
+2. Blend together shortening, salt, lemon rind, and sugar
+3. Beat in egg and milk
+4. Stir in flour, baking powder, and baking soda
+5. Drop by rounded teaspoonfuls on lightly greased baking sheet
+6. Grease bottom of glass. Dip glass in sugar and flatten each cookie
+7. Sprinkle cookies with nutmeg
+8. Bake 8-10 minutes, at 400°$^{\text{F}}$, until light golden
+9. Cool on rack
 ___
 >[!Servings]
 >3 dozen cookies
