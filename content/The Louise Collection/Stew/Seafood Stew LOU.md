@@ -3,6 +3,7 @@ title: Seafood Stew LOU
 draft: false
 tags:
   - "#Stew"
+  - "#Seafood"
 ---
 ## Author
 Unknown
